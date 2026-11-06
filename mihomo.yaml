@@ -1,1514 +1,573 @@
 proxies:
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_1|2.5MB/s
-    password: QCXDxuDlTTMD7jtgHUjIoj
-    port: 8080
-    server: 193.29.139.168
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇿🇦ZA_1|2.6MB/s
-    password: Xsy8Ox4yOV3xLlpxtjzs3X
-    port: 16233
-    server: 102.133.165.160
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_2|3.8MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.176
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_3|4.2MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.191
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_4|4.0MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.204
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_5|2.5MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.205
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_6|1.9MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.206
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_7|4.0MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.211
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_8|3.4MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.215
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_9|2.5MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.216
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_10|2.6MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.217
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_11|1.7MB/s
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.218
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_12|4.2MB/s
-    password: oZIoA69Q8yhcQV8ka3Pa3A
-    port: 8080
-    server: 82.38.31.35
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_13|4.3MB/s
-    password: oZIoA69Q8yhcQV8ka3Pa3A
-    port: 8080
-    server: 82.38.31.46
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: 🇳🇱NL_14|2.2MB/s
-    password: oZIoA69Q8yhcQV8ka3Pa3A
-    port: 8080
-    server: 82.38.31.62
-    type: ss
-    udp: true
-  - cipher: rc4-md5
-    name: 🇸🇬SG_1|2.9MB/s
-    password: 14fFPrbezE3HDZzsMOr6
-    port: 8080
-    server: 68.183.227.4
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_1|6.8MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 167.88.61.193
-    skip-cert-verify: false
-    sni: browseseniorrolesandenhanceyourcareertoday.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_2|6.2MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 169.197.140.171
-    skip-cert-verify: false
-    sni: cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: ❓Other_1|11.1MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 170.101.101.211
-    skip-cert-verify: false
-    sni: api.explorecreativejobsandenhanceyourcareerportfolio.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇩🇪DE_1|4.2MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 193.108.119.193
-    skip-cert-verify: false
-    sni: resources.iloverussia2026.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇩🇪DE_2|4.1MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 193.108.119.96
-    skip-cert-verify: false
-    sni: learn.iloverussia2026.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇨🇭CH_1|3.7MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 208.69.78.29
-    skip-cert-verify: false
-    sni: learn.yourultimateprofessionalcareerhub.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_3|14.0MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.106.186.82
-    skip-cert-verify: false
-    sni: courses.findlocaljobnetworkandbuildcommunityconnections.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_4|9.1MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.152.155.176
-    skip-cert-verify: false
-    sni: blog.nextjobopportunityandclaimyouridealrole.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_5|6.1MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.152.155.54
-    skip-cert-verify: false
-    sni: learn.nextjobopportunityandclaimyouridealrole.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_6|6.8MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.152.155.59
-    skip-cert-verify: false
-    sni: api.nextjobopportunityandclaimyouridealrole.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_7|8.7MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.152.156.42
-    skip-cert-verify: false
-    sni: blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_8|3.1MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.152.156.81
-    skip-cert-verify: false
-    sni: www.healthcarejobshubenhancemedicalprofessionalskillstoday.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇨🇱CL_1|4.0MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 64.176.7.205
-    skip-cert-verify: false
-    sni: advanceyouremploymentskillsandcareerdevelopmenthub.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_9|8.4MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 66.163.112.13
-    skip-cert-verify: false
-    sni: blog.unlockyourfuturefindyourperfectcareer.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_10|12.8MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 66.163.112.147
-    skip-cert-verify: false
-    sni: courses.unlockyourfuturefindyourperfectcareer.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_11|7.9MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 66.163.112.171
-    skip-cert-verify: false
-    sni: learn.unlockyourfuturefindyourperfectcareer.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_12|12.7MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 66.163.112.242
-    skip-cert-verify: false
-    sni: resources.unlockyourfuturefindyourperfectcareer.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_13|7.3MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 66.163.112.76
-    skip-cert-verify: false
-    sni: api.unlockyourfuturefindyourperfectcareer.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_14|15.4MB/s
-    network: tcp
-    password: 242a3d8eee5e4ed1a6bfa4141d549a25
-    port: 443
-    server: 216.106.186.66
-    skip-cert-verify: false
-    sni: www.findlocaljobnetworkandbuildcommunityconnections.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇺🇸US_15|13.4MB/s
-    network: tcp
-    password: 242a3d8eee5e4ed1a6bfa4141d549a25
-    port: 443
-    server: www.findlocaljobnetworkandbuildcommunityconnections.com
-    skip-cert-verify: false
-    sni: www.findlocaljobnetworkandbuildcommunityconnections.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇩🇪DE_3|2.2MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o
-      short-id: "b28db60d77c50b4f"
-    server: 193.163.203.170
-    tls: true
-    type: vless
-    udp: true
-    uuid: 11aabba0-5fd1-4f15-8068-74c1a466cefc
-    xudp: true
-    packet-encoding: xudp
-    servername: yandex.ru
-  - encryption: none
-    name: 🇧🇾BY_1|1.5MB/s
-    network: ws
-    port: 14430
-    server: 178.172.227.124
-    type: vless
-    udp: true
-    uuid: 1af36694-b548-4b18-89a0-bc076eab4ed7
-    ws-opts:
-      headers:
-        Host: 178.172.227.124
-        User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/60.0.3112.90 Safari/537.36
-      path: /vless
-    xudp: true
-    packet-encoding: xudp
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_16|1.5MB/s
-    network: tcp
-    port: 2053
-    reality-opts:
-      public-key: plwyjJZIVDt1OtwDAxfcLjDsR7dseVCe9Ia3HceIKEg
-      short-id: "a1b2c3d4"
-    server: 23.95.115.116
-    tls: true
-    type: vless
-    udp: true
-    uuid: 2739258b-a278-4bed-bc5d-f88830824dce
-    xudp: true
-    packet-encoding: xudp
-    servername: www.cloudflare.com
-  - client-fingerprint: chrome
-    encryption: none
-    name: 🇪🇸ES_1|3.1MB/s
-    network: tcp
-    port: 8443
-    reality-opts:
-      public-key: 7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A
-      short-id: "974f7f8f"
-    server: 156.252.229.11
-    tls: true
-    type: vless
-    udp: true
-    uuid: 3e21e3d3-6d26-4155-b851-764dd8e8c6b5
-    xudp: true
-    packet-encoding: xudp
-    servername: play.googleapis.com
-  - client-fingerprint: chrome
-    encryption: none
-    name: 🇩🇪DE_4|3.3MB/s
-    network: xhttp
-    port: 443
-    server: 193.160.208.240
-    tls: true
-    type: vless
-    udp: true
-    uuid: 4777d90d-265b-4927-a0d1-63f36ed1421c
-    xhttp-opts:
-      mode: auto
-      path: /assets/twru01/
-    xudp: true
-    packet-encoding: xudp
-    servername: 193.160.208.240
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇳🇱NL_15|2.2MB/s
-    network: tcp
-    port: 23576
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: "01"
-    server: 51.158.206.103
-    tls: true
-    type: vless
-    udp: true
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    xudp: true
-    packet-encoding: xudp
-    servername: fuck.rkn
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇳🇱NL_16|2.9MB/s
-    network: tcp
-    port: 23576
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: ""
-    server: 51.158.206.87
-    tls: true
-    type: vless
-    udp: true
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    xudp: true
-    packet-encoding: xudp
-    servername: fuck.rkn
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇫🇷FR_1|1.7MB/s
-    network: tcp
-    port: 23576
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: "01"
-    server: 62.210.91.10
-    tls: true
-    type: vless
-    udp: true
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    xudp: true
-    packet-encoding: xudp
-    servername: fuck.rkn
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇫🇷FR_2|2.1MB/s
-    network: tcp
-    port: 23576
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: "01"
-    server: 62.210.91.2
-    tls: true
-    type: vless
-    udp: true
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    xudp: true
-    packet-encoding: xudp
-    servername: fuck.rkn
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇩🇪DE_5|2.4MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: 3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE
-      short-id: "b2baf331493d3de1"
-    server: 191.44.108.30
-    tls: true
-    type: vless
-    udp: true
-    uuid: 558b26f6-061b-4079-9b84-ca13b3e90ae3
-    xudp: true
-    packet-encoding: xudp
-    servername: c8.qwyak.ru
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇳🇱NL_17|2.9MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk
-      short-id: "1a2b3c4d"
-    server: 45.141.202.69
-    tls: true
-    type: vless
-    udp: true
-    uuid: 5c32201a-6c0e-451b-8f0a-24b4bd40df59
-    xudp: true
-    packet-encoding: xudp
-    servername: files.porsche.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇯🇵JP_1|3.7MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg
-      short-id: "bd6f67b6b2152b45"
-    server: 31.76.91.70
-    tls: true
-    type: vless
-    udp: true
-    uuid: 7072eeba-94fd-4fb3-92f2-a4506dd84cd8
-    xudp: true
-    packet-encoding: xudp
-    servername: fuji.etherhub.cc
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇸🇬SG_2|2.9MB/s
-    network: tcp
-    port: 10444
-    reality-opts:
-      public-key: 0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo
-      short-id: "8debcf36f1cc69ff"
-    server: 147.93.173.45
-    tls: true
-    type: vless
-    udp: true
-    uuid: 75c5f51b-d548-4eab-a26e-aa10fc3dbc7b
-    xudp: true
-    packet-encoding: xudp
-    servername: video.yandex.ru
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇳🇱NL_18|2.8MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc
-      short-id: "1174"
-    server: 188.116.27.6
-    tls: true
-    type: vless
-    udp: true
-    uuid: 7e81eba3-28fe-4cf6-b397-d5c08fea38ab
-    xudp: true
-    packet-encoding: xudp
-    servername: www.sony.co.uk
-  - client-fingerprint: chrome
-    encryption: none
-    name: 🇩🇪DE_6|1.7MB/s
-    network: ws
-    port: 465
-    server: 91.107.243.131
-    tls: true
-    type: vless
-    udp: true
-    uuid: 98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8
-    ws-opts:
-      headers:
-        Host: hw14.roghanmo.com
-        User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3
-          (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
-      path: /
-    xudp: true
-    packet-encoding: xudp
-    servername: hw14.roghanmo.com
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_17|20.2MB/s
-    network: tcp
-    port: 45197
-    reality-opts:
-      public-key: LqXTJ-JXo1CgjUQT8trI3OEhY2qOr1YAin2YLuLZFx0
-      short-id: ""
-    server: 198.2.251.107
-    tls: true
-    type: vless
-    udp: true
-    uuid: 9d979dd1-1760-4c76-8881-b05a09b4d795
-    xudp: true
-    packet-encoding: xudp
-    servername: www.amazon.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇨🇿CZ_1|4.1MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: 23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE
-      short-id: "e90360ec7cc61b20"
-    server: 212.102.38.25
-    tls: true
-    type: vless
-    udp: true
-    uuid: b34a52cb-cd52-49a8-9362-b8e97c151d49
-    xudp: true
-    packet-encoding: xudp
-    servername: udemy.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_18|3.6MB/s
-    network: tcp
-    port: 49520
-    reality-opts:
-      public-key: c4S7RKiXGJElV2F5_cPCUc_NDZzjpcPHTEs-OwO6A2c
-      short-id: ""
-    server: 136.0.197.99
-    tls: true
-    type: vless
-    udp: true
-    uuid: ca4cb252-3fcb-4937-9d08-c39683e46e42
-    xudp: true
-    packet-encoding: xudp
-    servername: www.ebay.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_19|7.1MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-      short-id: "c39cc7310a"
-    server: 169.40.42.74
-    tls: true
-    type: vless
-    udp: true
-    uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-    xudp: true
-    packet-encoding: xudp
-    servername: yahoo.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇩🇪DE_7|3.3MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-      short-id: "c39cc7310a"
-    server: 82.39.171.12
-    tls: true
-    type: vless
-    udp: true
-    uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-    xudp: true
-    packet-encoding: xudp
-    servername: yahoo.com
-  - client-fingerprint: chrome
-    encryption: none
-    name: 🇺🇸US_20|2.6MB/s
-    network: tcp
-    port: 18580
-    server: 108.61.119.63
-    tls: true
-    type: vless
-    udp: true
-    uuid: e9a8144e-5237-488a-afb1-9ca3d8d54c80
-    xudp: true
-    packet-encoding: xudp
-    servername: us007.zestapp778.com
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇳🇱NL_19|4.1MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA
-      short-id: "e6d589857d1cec5e"
-    server: fr.golangwikito.cfd
-    tls: true
-    type: vless
-    udp: true
-    uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
-    xudp: true
-    packet-encoding: xudp
-    servername: fr.golangwikito.cfd
-  - alterId: 0
-    cipher: auto
-    client-fingerprint: chrome
-    name: 🇸🇪SE_1|3.5MB/s
-    network: tcp
-    port: 1270
-    server: 138.199.55.230
-    tls: true
-    type: vmess
-    udp: true
-    uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
-    xudp: true
-    packet-encoding: xudp
-    servername: xmfhlpy.com
-  - alterId: 0
-    cipher: auto
-    client-fingerprint: chrome
-    name: 🇺🇸US_21|6.8MB/s
-    network: tcp
-    port: 1270
-    server: 172.111.38.246
-    tls: true
-    type: vmess
-    udp: true
-    uuid: 5c040f1d-45db-43bd-8d46-e4950e433735
-    xudp: true
-    packet-encoding: xudp
-    servername: xmfhlpy.com
-  - alterId: 0
-    cipher: auto
-    name: 🇺🇸US_22|27.4MB/s
-    network: tcp
-    port: 18000
-    server: 84.17.41.2
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-    servername: bj1aa2zyjxyamyuk.v%3dns.vip
-  - alterId: 0
-    cipher: auto
-    name: 🇺🇸US_23|26.3MB/s
-    network: tcp
-    port: 18000
-    server: 84.17.41.2
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-    servername: bj1aa2zyjxyamyuk.v.3dns.vip
-  - alpn:
-      - ""
-    alterId: "0"
-    cipher: auto
-    name: 🇨🇦CA_1|4.0MB/s
-    network: tcp
-    port: 18000
-    server: 23.162.200.198
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-  - alpn:
-      - ""
-    alterId: "0"
-    cipher: auto
-    name: 🇺🇸US_24|2.7MB/s
-    network: tcp
-    port: 18000
-    server: 38.91.107.49
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-  - cipher: aes-256-gcm
-    name: 🇩🇪DE_8|2.7MB/s
-    password: XKFKl2rULjIp74
-    port: 8008
-    server: 185.226.172.8
-    type: ss
-    udp: true
-  - cipher: aes-256-gcm
-    name: 🇺🇸US_25|1.2MB/s
-    password: kDWvXYZoTBcGkC4
-    port: 8881
-    server: 15.204.246.108
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_26|18.1MB/s
-    network: tcp
-    port: 23576
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: "01"
-    server: 15.204.97.195
-    tls: true
-    type: vless
-    udp: true
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    xudp: true
-    packet-encoding: xudp
-    servername: fuck.rkn
-  - client-fingerprint: chrome
-    name: 🇺🇸US_27|9.8MB/s
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.152.155.158
-    skip-cert-verify: false
-    sni: resources.nextjobopportunityandclaimyouridealrole.com
-    type: trojan
-    udp: true
-    network: tcp
-  - client-fingerprint: chrome
-    name: 🇦🇺AU_1|4.1MB/s
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 45.63.30.142
-    skip-cert-verify: false
-    sni: connectwithemployerstohireyouridealteam.com
-    type: trojan
-    udp: true
-    network: tcp
-  - client-fingerprint: chrome
-    name: 🇺🇸US_28|6.3MB/s
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 216.152.156.65
-    skip-cert-verify: false
-    sni: learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com
-    type: trojan
-    udp: true
-    network: tcp
-  - client-fingerprint: chrome
-    name: 🇺🇸US_29|26.8MB/s
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 66.163.114.132
-    skip-cert-verify: false
-    sni: courses.findconnectwithemployersandbuildprofessionalnetwork.com
-    type: trojan
-    udp: true
-    network: tcp
-  - cipher: aes-256-gcm
-    name: 🇨🇦CA_2|4.3MB/s
-    password: Y6R9pAtvxxzmGC
-    port: 5000
-    server: 51.222.200.165
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇺🇦UA_1|2.8MB/s
-    network: tcp
-    port: 20000
-    reality-opts:
-      public-key: B5eeoAJ1JK_QhMX_lWHoZPIP-53_J2BPjvYmimXLryM
-      short-id: "e1eaa29a"
-    server: f8nvkaf4.20260927-usp-amd2-low-node-ua-house.9999231.xyz
-    skip-cert-verify: false
-    tls: true
-    type: vless
-    udp: true
-    uuid: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
-    servername: www.junzelaser.com
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇸🇮SI_1|2.2MB/s
-    network: tcp
-    port: 20000
-    reality-opts:
-      public-key: B5eeoAJ1JK_QhMX_lWHoZPIP-53_J2BPjvYmimXLryM
-      short-id: "e1eaa29a"
-    server: elm4ew3p.20261016-usp-amd2-low-node-si.9999231.xyz
-    skip-cert-verify: false
-    tls: true
-    type: vless
-    udp: true
-    uuid: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
-    servername: www.junzelaser.com
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_30|2.9MB/s
-    network: tcp
-    port: 20000
-    reality-opts:
-      public-key: B5eeoAJ1JK_QhMX_lWHoZPIP-53_J2BPjvYmimXLryM
-      short-id: "e1eaa29a"
-    server: dq8zu6v4.20261016-jp-amd1-low-node.9999231.xyz
-    skip-cert-verify: false
-    tls: true
-    type: vless
-    udp: true
-    uuid: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
-    servername: www.junzelaser.com
-  - client-fingerprint: chrome
-    name: 🇫🇮FI_1|3.2MB/s
-    network: ws
-    password: gHQP0D7D15
-    port: 2053
-    server: 104.24.0.1
-    skip-cert-verify: false
-    sni: marvdasht.phonecomparisonblog.org
-    type: trojan
-    udp: true
-    ws-opts:
-      headers:
-        User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532G Build/MMB29T)
-          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Mobile
-          Safari/537.36
-      path: /
-  - name: 🇦🇪AE_1|2.5MB/s
-    password: d9064589-74af-432a-9390-5d8a9da281bf
-    port: 20123
-    server: Sclass-00.catcat321.com
-    skip-cert-verify: false
-    sni: hk.catxstar.com
-    type: trojan
-    udp: true
-    network: tcp
-  - client-fingerprint: chrome
-    name: 🇸🇬SG_3|3.1MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 149.28.130.108
-    skip-cert-verify: false
-    sni: searchcreativejobsandshowcaseyourartistictalents.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇯🇵JP_2|4.3MB/s
-    network: tcp
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 167.179.108.225
-    skip-cert-verify: false
-    sni: discoverparttimepositionsandsupplementyourincomeguide.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇨🇦CA_3|3.7MB/s
-    network: tcp
-    password: 5t6i121em5lkmsmk
-    port: 46977
-    server: 216.128.185.90
-    skip-cert-verify: false
-    sni: ca001.zestapp778.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: 🇧🇷BR_1|2.8MB/s
-    network: tcp
-    password: 5t6i121em5lkmsmk
-    port: 39533
-    server: 216.238.116.204
-    skip-cert-verify: false
-    sni: br001.zestapp778.com
-    type: trojan
-    udp: true
-  - name: 🇧🇾BY_2|1.3MB/s
-    network: ws
-    port: 14430
-    server: 178.172.227.228
-    type: vless
-    udp: true
-    uuid: b6e5dc56-836f-48c1-9163-b0b0b43b647d
-    ws-opts:
-      headers:
-        Host: 178.172.227.228
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/47.0.2526.106 Safari/537.36
-      path: /vless
-    xudp: true
-    packet-encoding: xudp
-  - name: 🇫🇷FR_3|4.0MB/s
-    network: ws
-    port: 14430
-    server: 138.124.70.41
-    type: vless
-    udp: true
-    uuid: 6cc745e3-4eb9-46c8-a4a1-85dee7b87edc
-    ws-opts:
-      headers:
-        Host: 138.124.70.41
-        User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-          Chrome/55.0.2883.87 Safari/537.36
-      path: /vless
-    xudp: true
-    packet-encoding: xudp
-    servername: 138.124.70.41
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇮🇹IT_1|1.5MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU
-      short-id: "cd6065902eea7a02"
-    server: 82.118.16.187
-    tls: true
-    type: vless
-    udp: true
-    uuid: dc2259c4-388e-4285-ba18-df619b6672b6
-    xudp: true
-    packet-encoding: xudp
-    servername: www.cloudflare.com
-  - name: 🇧🇾BY_3|1.0MB/s
-    network: tcp
-    port: 10443
-    server: 178.172.227.124
-    type: vless
-    udp: true
-    uuid: 1af36694-b548-4b18-89a0-bc076eab4ed7
-    xudp: true
-    packet-encoding: xudp
-  - name: 🇫🇮FI_2|2.9MB/s
-    network: ws
-    port: 14430
-    server: 45.144.234.157
-    type: vless
-    udp: true
-    uuid: 59b0d30e-9b29-4fda-a35c-b2901ec32db7
-    ws-opts:
-      headers:
-        Host: 45.144.234.157
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-          like Gecko) Chrome/65.0.3325.181 Safari/537.36
-      path: /vless
-    xudp: true
-    packet-encoding: xudp
-    servername: 45.144.234.157
-  - name: 🇫🇮FI_3|1.0MB/s
-    network: ws
-    port: 14430
-    server: 45.144.234.157
-    type: vless
-    udp: true
-    uuid: 59b0d30e-9b29-4fda-a35c-b2901ec32db7
-    ws-opts:
-      headers:
-        Host: 45.144.234.157
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-          Gecko) Chrome/49.0.2623.110 Safari/537.36
-      path: /vless
-    xudp: true
-    packet-encoding: xudp
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: 🇵🇱PL_1|5.2MB/s
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI
-      short-id: "50"
-    server: 2.26.255.215
-    tls: true
-    type: vless
-    udp: true
-    uuid: 69e41e64-a832-471a-b740-94577ca85520
-    xudp: true
-    packet-encoding: xudp
-    servername: cloudflare.com
-  - alterId: 0
-    cipher: auto
-    name: 🇺🇸US_31|4.7MB/s
-    network: raw
-    port: 18000
-    server: 169.197.142.22
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-  - alterId: "0"
-    cipher: auto
-    name: 🇸🇬SG_4|4.1MB/s
-    network: raw
-    port: 18000
-    server: 149.88.23.202
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-  - alterId: 0
-    cipher: auto
-    name: 🇸🇬SG_5|1.0MB/s
-    network: tcp
-    port: 18000
-    server: ww11.levikogjgfdd.ir
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-    servername: telegram-i10vpn
-  - alterId: 0
-    cipher: auto
-    name: 🇸🇬SG_6|4.0MB/s
-    network: raw
-    port: 18000
-    server: ww11.levikogjgfdd.ir
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-    servername: ww11.levikogjgfdd.ir
-  - alterId: 0
-    cipher: auto
-    name: 🇺🇸US_32|4.1MB/s
-    network: tcp
-    port: 18000
-    server: 169.197.142.22
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-    servername: 169.197.142.22
-  - alterId: 0
-    cipher: auto
-    name: 🇸🇬SG_7|4.0MB/s
-    network: raw
-    port: 18000
-    server: ww11.levikogjgfdd.ir
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-  - alterId: 0
-    cipher: auto
-    name: 🇨🇦CA_4|8.5MB/s
-    network: tcp
-    port: 18000
-    server: 134.195.196.211
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-    servername: "@vpnine1"
-  - alterId: 0
-    cipher: auto
-    name: 🇺🇸US_33|4.8MB/s
-    port: 18000
-    server: 169.197.142.22
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    network: tcp
-    packet-encoding: xudp
-  - alterId: 0
-    cipher: auto
-    name: 🇨🇦CA_5|4.1MB/s
-    network: tcp
-    port: 18000
-    server: 23.162.200.198
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    packet-encoding: xudp
-    servername: learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com
-  - alterId: 0
-    cipher: auto
-    name: 🇺🇸US_34|2.2MB/s
-    port: 18000
-    server: 38.110.1.246
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
-    xudp: true
-    network: tcp
-    packet-encoding: xudp
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_35|23.7MB/s
-    port: 23576
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: "01"
-    server: ww13.levikogjgfdd.ir
-    tls: true
-    type: vless
-    udp: true
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    network: tcp
-    servername: fuck.rkn
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇺🇸US_36|17.3MB/s
-    port: 23576
-    reality-opts:
-      public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-      short-id: "01"
-    server: 15.204.97.198
-    tls: true
-    type: vless
-    udp: true
-    uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-    network: tcp
-    servername: fuck.rkn
-  - name: 🇺🇸US_37|6.0MB/s
-    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
-    port: 443
-    server: 169.197.140.171
-    sni: cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com
-    type: trojan
-    udp: true
-    network: tcp
-  - name: 🇯🇵JP_3|1.5MB/s
-    port: 47878
-    server: 152.69.195.67
-    type: vless
-    udp: true
-    uuid: eb8613e3-8393-4cff-a3ad-6501fd4adc63
-    network: tcp
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: 🇩🇪DE_9|2.4MB/s
-    network: raw
-    port: 443
-    reality-opts:
-      public-key: GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o
-      short-id: "b28db60d77c50b4f"
-    server: 193.163.203.170
-    tls: true
-    type: vless
-    udp: true
-    uuid: 11aabba0-5fd1-4f15-8068-74c1a466cefc
-    xudp: true
-    packet-encoding: xudp
-    servername: yandex.ru
+- client-fingerprint: unsafe
+  fm: '{"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}'
+  name: 🇺🇸US_10|4.8MB/s
+  network: ws
+  port: 443
+  server: 172.64.149.88
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: d37a75db-76b6-4db8-b213-0d5b044d138d
+  ws-opts:
+    headers:
+      Host: top-e4s.pages.dev
+    path: /
+  servername: top-e4s.pages.dev
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇧🇷BR_1|2.8MB/s
+  network: tcp
+  port: 20000
+  reality-opts:
+    public-key: B5eeoAJ1JK_QhMX_lWHoZPIP-53_J2BPjvYmimXLryM
+    short-id: e1eaa29a
+  server: 7l2pl6ru.20261016-usp-arm1-fast-node-br-house.9999231.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  servername: www.junzelaser.com
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇦🇪AE_1|2.6MB/s
+  network: tcp
+  port: 20000
+  reality-opts:
+    public-key: B5eeoAJ1JK_QhMX_lWHoZPIP-53_J2BPjvYmimXLryM
+    short-id: e1eaa29a
+  server: tu8ujil8.20261031-ae-arm1-fast-node.9999231.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: a7c5d30b-ce9b-4e34-b5cb-66f8308790ef
+  servername: www.junzelaser.com
+- client-fingerprint: unsafe
+  encryption: none
+  name: 🇺🇸US_11|7.7MB/s
+  network: ws
+  port: 443
+  server: 188.114.97.6
+  tls: true
+  type: vless
+  uuid: 4c0b7280-76bb-495c-9c8b-f05712ebf805
+  ws-opts:
+    headers:
+      Host: youxuanku.kdns.fr
+    path: /
+  udp: true
+  servername: youxuanku.kdns.fr
+- alpn:
+  - http/1.1
+  client-fingerprint: unsafe
+  encryption: none
+  name: 🇺🇸US_12|7.0MB/s
+  network: ws
+  port: 443
+  server: 172.67.141.182
+  tls: true
+  type: vless
+  uuid: ce440dcf-e570-4a50-af37-bf588ee8a988
+  ws-opts:
+    headers:
+      Host: 6qwoom7kdrcoan3ui4ra5dy.pages.dev
+    path: /vl/KSPdmco70dfoXFS292o2Nv6yPt?ed=2560#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
+  udp: true
+  servername: 6qwoom7kdrcoan3ui4ra5dy.pages.dev
+- encryption: none
+  name: 🇯🇵JP_1|3.2MB/s
+  network: ws
+  port: 11424
+  server: 38.47.96.220
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 1d16c6e0-1bbe-435b-b661-90043fee999c
+  ws-opts:
+    headers:
+      Host: notls.lukongtou.eu.org
+    path: /Telegram-WangCai2🇨🇳
+  udp: true
+  servername: notls.lukongtou.eu.org
+- client-fingerprint: firefox
+  name: 🇳🇱NL_13|4.1MB/s
+  network: xhttp
+  port: 443
+  server: 201.34.142.108
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4777d90d-265b-4927-a0d1-63f36ed1421c
+  xhttp-opts:
+    mode: auto
+    path: /assets/nlrelay01/
+  servername: 201.34.142.108
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: 🇩🇪DE_5|3.9MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: gOzBi_a99jyGQyM5tVwDpi7EQ_3eaj-v15mHOTs9xkY
+  server: 13.143.192.200
+  tls: true
+  type: vless
+  udp: true
+  uuid: caedb3a1-6395-40b9-a9a8-4b9694eb224a
+  servername: kulek.tech
+- alpn:
+  - ''
+  alterId: 0
+  cipher: auto
+  http-opts:
+    headers:
+      Host:
+      - down-cdn.dingtalk.com
+    method: GET
+    path:
+    - /QQqun-737805443
+  name: 🇺🇸US_14|6.4MB/s
+  network: http
+  port: 1288
+  server: 107.175.76.215
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 29a72eac-a4d1-4526-8fa0-d3ecc4e38b44
+- client-fingerprint: chrome
+  name: 🇺🇸US_15|13.3MB/s
+  network: ws
+  port: 8443
+  server: 104.17.177.160
+  tls: true
+  type: vless
+  udp: true
+  uuid: fceb3200-2516-47d2-8e28-d04ecde9427a
+  ws-opts:
+    headers:
+      Host: edge-fef90023.pages.dev
+    path: /
+  servername: edge-fef90023.pages.dev
+- client-fingerprint: chrome
+  name: 🇺🇸US_17|5.8MB/s
+  network: ws
+  port: 443
+  server: 188.114.96.9
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2e305ebe-f6e6-4689-b32f-cd04ab5ff541
+  ws-opts:
+    headers:
+      Host: idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev
+    path: /vl/9yvcoLdzdOXLUYfH7r5gwJhu1CHrj
+  servername: idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev
+- client-fingerprint: chrome
+  name: 🇺🇸US_18|6.0MB/s
+  network: ws
+  port: 2083
+  server: 172.67.131.125
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: f418674e-f518-4318-8ff9-e10000000046
+  ws-opts:
+    headers:
+      Host: smart-edge-424.arti98399-1905.workers.dev
+    path: /sync
+  servername: smart-edge-424.arti98399-1905.workers.dev
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸US_24|1.6MB/s
+  network: ws
+  port: 80
+  server: 104.21.7.133
+  type: vmess
+  udp: true
+  uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
+  ws-opts:
+    headers:
+      Host: vmess.lbw666.dpdns.org
+    path: /ws
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸US_33|1.7MB/s
+  network: ws
+  port: 80
+  server: 172.67.187.145
+  type: vmess
+  udp: true
+  uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
+  ws-opts:
+    headers:
+      Host: vmess.lbw666.dpdns.org
+    path: /ws
+- alterId: '0'
+  cipher: auto
+  name: 🇺🇸US_62|1.3MB/s
+  network: ws
+  port: 443
+  server: cf.877771.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
+  ws-opts:
+    early-data-header-name: Sec-WebSocket-Protocol
+    headers:
+      Host: vmess.lbw666.dpdns.org
+    max-early-data: 2048
+    path: /ws
+  xudp: true
+  packet-encoding: xudp
+  servername: vmess.lbw666.dpdns.org
+- client-fingerprint: chrome
+  name: 🇫🇮FI_5|2.5MB/s
+  network: ws
+  password: gHQP0D7D15
+  port: 2053
+  server: 104.25.239.113
+  skip-cert-verify: false
+  sni: marvdasht.phonecomparisonblog.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+    path: /
+- client-fingerprint: chrome
+  name: 🇫🇮FI_6|2.3MB/s
+  network: ws
+  password: gHQP0D7D15
+  port: 2053
+  server: 104.24.0.1
+  skip-cert-verify: false
+  sni: marvdasht.phonecomparisonblog.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/49.0.2623.87 Safari/537.36
+    path: /
+- client-fingerprint: chrome
+  name: 🇫🇮FI_7|3.4MB/s
+  network: ws
+  password: gHQP0D7D15
+  port: 2053
+  server: 172.67.118.45
+  skip-cert-verify: true
+  sni: marvdasht.phonecomparisonblog.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/58.0.3029.110 Safari/537.36
+    path: /
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 🇫🇮FI_8|3.0MB/s
+  network: ws
+  password: gHQP0D7D15
+  port: 2053
+  server: 188.114.96.3
+  skip-cert-verify: false
+  sni: marvdasht.phonecomparisonblog.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /
+- client-fingerprint: firefox
+  encryption: none
+  grpc-opts:
+    grpc-service-name: TunService
+  name: 🇫🇮FI_9|3.3MB/s
+  network: grpc
+  port: 8443
+  reality-opts:
+    public-key: Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ
+    short-id: ''
+  server: 122.8.47.4
+  tls: true
+  type: vless
+  udp: true
+  uuid: ffaa2141-759b-424f-f28c-23dbeae00f10
+  xudp: true
+  packet-encoding: xudp
+  servername: www.philips.com
 proxy-groups:
-  - name: 🚀 节点选择
-    type: select
-    proxies:
-      - ♻️ 自动选择
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-      - DIRECT
-  - name: 🚀 手动切换
-    include-all: true
-    type: select
-  - name: ♻️ 自动选择
-    type: url-test
-    include-all: true
-    interval: 300
-    tolerance: 50
-  - name: 📲 电报消息
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🇸🇬 狮城节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-      - DIRECT
-  - name: 💬 Ai平台
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🇸🇬 狮城节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-      - DIRECT
-  - name: 📹 油管视频
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🇸🇬 狮城节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-      - DIRECT
-  - name: 🎥 奈飞视频
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🎥 奈飞节点
-      - 🇸🇬 狮城节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-      - DIRECT
-  - name: 📺 巴哈姆特
-    type: select
-    proxies:
-      - 🇨🇳 台湾节点
-      - 🚀 节点选择
-      - 🚀 手动切换
-      - DIRECT
-  - name: 📺 哔哩哔哩
-    type: select
-    proxies:
-      - 🎯 全球直连
-      - 🇨🇳 台湾节点
-      - 🇭🇰 香港节点
-  - name: 🌍 国外媒体
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-      - DIRECT
-  - name: 🌏 国内媒体
-    type: select
-    proxies:
-      - DIRECT
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🚀 手动切换
-  - name: 📢 谷歌FCM
-    type: select
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - 🇺🇲 美国节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-  - name: Ⓜ️ 微软Bing
-    type: select
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - 🇺🇲 美国节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-  - name: Ⓜ️ 微软云盘
-    type: select
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - 🇺🇲 美国节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-  - name: Ⓜ️ 微软服务
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - DIRECT
-      - 🇺🇲 美国节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-  - name: 🍎 苹果服务
-    type: select
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - 🇺🇲 美国节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-  - name: 🎮 游戏平台
-    type: select
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - 🇺🇲 美国节点
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-  - name: 🎶 网易音乐
-    type: select
-    include-all: true
-    filter: (?i)网易|音乐|NetEase|Music
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - ♻️ 自动选择
-  - name: 🎯 全球直连
-    type: select
-    proxies:
-      - DIRECT
-      - 🚀 节点选择
-      - ♻️ 自动选择
-  - name: 🛑 广告拦截
-    type: select
-    proxies:
-      - REJECT
-      - DIRECT
-  - name: 🍃 应用净化
-    type: select
-    proxies:
-      - REJECT
-      - DIRECT
-  - name: 🐟 漏网之鱼
-    type: select
-    proxies:
-      - 🚀 节点选择
-      - ♻️ 自动选择
-      - DIRECT
-      - 🇭🇰 香港节点
-      - 🇨🇳 台湾节点
-      - 🇸🇬 狮城节点
-      - 🇯🇵 日本节点
-      - 🇺🇲 美国节点
-      - 🇰🇷 韩国节点
-      - 🚀 手动切换
-  - name: 🇭🇰 香港节点
-    include-all: true
-    filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
-    type: url-test
-    interval: 300
-    tolerance: 50
-  - name: 🇯🇵 日本节点
-    include-all: true
-    filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
-    type: url-test
-    interval: 300
-    tolerance: 50
-  - name: 🇺🇲 美国节点
-    include-all: true
-    filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
-    type: url-test
-    interval: 300
-    tolerance: 50
-  - name: 🇨🇳 台湾节点
-    include-all: true
-    filter: (?i)台|新北|彰化|TW|Taiwan
-    type: url-test
-    interval: 300
-    tolerance: 50
-  - name: 🇸🇬 狮城节点
-    include-all: true
-    filter: (?i)新加坡|坡|狮城|SG|Singapore
-    type: url-test
-    interval: 300
-    tolerance: 50
-  - name: 🇰🇷 韩国节点
-    include-all: true
-    filter: (?i)KR|Korea|KOR|首尔|韩|韓
-    type: url-test
-    interval: 300
-    tolerance: 50
-  - name: 🎥 奈飞节点
-    include-all: true
-    filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
-    type: select
+- name: 🚀 节点选择
+  type: select
+  proxies:
+  - ♻️ 自动选择
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇺🇲 美国节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+  - DIRECT
+- name: 🚀 手动切换
+  include-all: true
+  type: select
+- name: ♻️ 自动选择
+  type: url-test
+  include-all: true
+  interval: 300
+  tolerance: 50
+- name: 📲 电报消息
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - ♻️ 自动选择
+  - 🇸🇬 狮城节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇯🇵 日本节点
+  - 🇺🇲 美国节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+  - DIRECT
+- name: 💬 Ai平台
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - ♻️ 自动选择
+  - 🇸🇬 狮城节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇯🇵 日本节点
+  - 🇺🇲 美国节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+  - DIRECT
+- name: 📹 油管视频
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - ♻️ 自动选择
+  - 🇸🇬 狮城节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇯🇵 日本节点
+  - 🇺🇲 美国节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+  - DIRECT
+- name: 🎥 奈飞视频
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - ♻️ 自动选择
+  - 🎥 奈飞节点
+  - 🇸🇬 狮城节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇯🇵 日本节点
+  - 🇺🇲 美国节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+  - DIRECT
+- name: 📺 巴哈姆特
+  type: select
+  proxies:
+  - 🇨🇳 台湾节点
+  - 🚀 节点选择
+  - 🚀 手动切换
+  - DIRECT
+- name: 📺 哔哩哔哩
+  type: select
+  proxies:
+  - 🎯 全球直连
+  - 🇨🇳 台湾节点
+  - 🇭🇰 香港节点
+- name: 🌍 国外媒体
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - ♻️ 自动选择
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇺🇲 美国节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+  - DIRECT
+- name: 🌏 国内媒体
+  type: select
+  proxies:
+  - DIRECT
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🚀 手动切换
+- name: 📢 谷歌FCM
+  type: select
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  - 🇺🇲 美国节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+- name: Ⓜ️ 微软Bing
+  type: select
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  - 🇺🇲 美国节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+- name: Ⓜ️ 微软云盘
+  type: select
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  - 🇺🇲 美国节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+- name: Ⓜ️ 微软服务
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - DIRECT
+  - 🇺🇲 美国节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+- name: 🍎 苹果服务
+  type: select
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  - 🇺🇲 美国节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+- name: 🎮 游戏平台
+  type: select
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  - 🇺🇲 美国节点
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+- name: 🎶 网易音乐
+  type: select
+  include-all: true
+  filter: (?i)网易|音乐|NetEase|Music
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  - ♻️ 自动选择
+- name: 🎯 全球直连
+  type: select
+  proxies:
+  - DIRECT
+  - 🚀 节点选择
+  - ♻️ 自动选择
+- name: 🛑 广告拦截
+  type: select
+  proxies:
+  - REJECT
+  - DIRECT
+- name: 🍃 应用净化
+  type: select
+  proxies:
+  - REJECT
+  - DIRECT
+- name: 🐟 漏网之鱼
+  type: select
+  proxies:
+  - 🚀 节点选择
+  - ♻️ 自动选择
+  - DIRECT
+  - 🇭🇰 香港节点
+  - 🇨🇳 台湾节点
+  - 🇸🇬 狮城节点
+  - 🇯🇵 日本节点
+  - 🇺🇲 美国节点
+  - 🇰🇷 韩国节点
+  - 🚀 手动切换
+- name: 🇭🇰 香港节点
+  include-all: true
+  filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
+  type: url-test
+  interval: 300
+  tolerance: 50
+- name: 🇯🇵 日本节点
+  include-all: true
+  filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
+  type: url-test
+  interval: 300
+  tolerance: 50
+- name: 🇺🇲 美国节点
+  include-all: true
+  filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
+  type: url-test
+  interval: 300
+  tolerance: 50
+- name: 🇨🇳 台湾节点
+  include-all: true
+  filter: (?i)台|新北|彰化|TW|Taiwan
+  type: url-test
+  interval: 300
+  tolerance: 50
+- name: 🇸🇬 狮城节点
+  include-all: true
+  filter: (?i)新加坡|坡|狮城|SG|Singapore
+  type: url-test
+  interval: 300
+  tolerance: 50
+- name: 🇰🇷 韩国节点
+  include-all: true
+  filter: (?i)KR|Korea|KOR|首尔|韩|韓
+  type: url-test
+  interval: 300
+  tolerance: 50
+- name: 🎥 奈飞节点
+  include-all: true
+  filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
+  type: select
 rule-providers:
   LocalAreaNetwork:
     url: https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
@@ -1728,37 +787,37 @@ rule-providers:
     format: text
     type: http
 rules:
-  - PROCESS-NAME,subs-check.exe,🎯 全球直连
-  - PROCESS-NAME,subs-check,🎯 全球直连
-  - RULE-SET,LocalAreaNetwork,🎯 全球直连
-  - RULE-SET,UnBan,🎯 全球直连
-  - RULE-SET,BanAD,🛑 广告拦截
-  - RULE-SET,BanProgramAD,🍃 应用净化
-  - RULE-SET,GoogleFCM,📢 谷歌FCM
-  - RULE-SET,GoogleCN,🎯 全球直连
-  - RULE-SET,SteamCN,🎯 全球直连
-  - RULE-SET,Bing,Ⓜ️ 微软Bing
-  - RULE-SET,OneDrive,Ⓜ️ 微软云盘
-  - RULE-SET,Microsoft,Ⓜ️ 微软服务
-  - RULE-SET,Apple,🍎 苹果服务
-  - RULE-SET,Telegram,📲 电报消息
-  - RULE-SET,AI,💬 Ai平台
-  - RULE-SET,NetEaseMusic,🎶 网易音乐
-  - RULE-SET,Epic,🎮 游戏平台
-  - RULE-SET,Origin,🎮 游戏平台
-  - RULE-SET,Sony,🎮 游戏平台
-  - RULE-SET,Steam,🎮 游戏平台
-  - RULE-SET,Nintendo,🎮 游戏平台
-  - RULE-SET,YouTube,📹 油管视频
-  - RULE-SET,Netflix,🎥 奈飞视频
-  - RULE-SET,Bahamut,📺 巴哈姆特
-  - RULE-SET,BilibiliHMT,📺 哔哩哔哩
-  - RULE-SET,Bilibili,📺 哔哩哔哩
-  - RULE-SET,ChinaMedia,🌏 国内媒体
-  - RULE-SET,ProxyMedia,🌍 国外媒体
-  - RULE-SET,ProxyGFWlist,🚀 节点选择
-  - RULE-SET,ChinaDomain,🎯 全球直连
-  - RULE-SET,ChinaCompanyIp,🎯 全球直连
-  - RULE-SET,Download,🎯 全球直连
-  - GEOIP,CN,🎯 全球直连
-  - MATCH,🐟 漏网之鱼
+- PROCESS-NAME,subs-check.exe,🎯 全球直连
+- PROCESS-NAME,subs-check,🎯 全球直连
+- RULE-SET,LocalAreaNetwork,🎯 全球直连
+- RULE-SET,UnBan,🎯 全球直连
+- RULE-SET,BanAD,🛑 广告拦截
+- RULE-SET,BanProgramAD,🍃 应用净化
+- RULE-SET,GoogleFCM,📢 谷歌FCM
+- RULE-SET,GoogleCN,🎯 全球直连
+- RULE-SET,SteamCN,🎯 全球直连
+- RULE-SET,Bing,Ⓜ️ 微软Bing
+- RULE-SET,OneDrive,Ⓜ️ 微软云盘
+- RULE-SET,Microsoft,Ⓜ️ 微软服务
+- RULE-SET,Apple,🍎 苹果服务
+- RULE-SET,Telegram,📲 电报消息
+- RULE-SET,AI,💬 Ai平台
+- RULE-SET,NetEaseMusic,🎶 网易音乐
+- RULE-SET,Epic,🎮 游戏平台
+- RULE-SET,Origin,🎮 游戏平台
+- RULE-SET,Sony,🎮 游戏平台
+- RULE-SET,Steam,🎮 游戏平台
+- RULE-SET,Nintendo,🎮 游戏平台
+- RULE-SET,YouTube,📹 油管视频
+- RULE-SET,Netflix,🎥 奈飞视频
+- RULE-SET,Bahamut,📺 巴哈姆特
+- RULE-SET,BilibiliHMT,📺 哔哩哔哩
+- RULE-SET,Bilibili,📺 哔哩哔哩
+- RULE-SET,ChinaMedia,🌏 国内媒体
+- RULE-SET,ProxyMedia,🌍 国外媒体
+- RULE-SET,ProxyGFWlist,🚀 节点选择
+- RULE-SET,ChinaDomain,🎯 全球直连
+- RULE-SET,ChinaCompanyIp,🎯 全球直连
+- RULE-SET,Download,🎯 全球直连
+- GEOIP,CN,🎯 全球直连
+- MATCH,🐟 漏网之鱼
